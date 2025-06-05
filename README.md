@@ -1,6 +1,5 @@
 # system-resource-monitoring
 This project involves setting up Netdata to monitor system resources, including CPU, memory, disk usage, and Docker containers.
-Explain how to set up Netdata.
 
 ## Features
 - **Real-time monitoring** of CPU, memory, and disk usage.
